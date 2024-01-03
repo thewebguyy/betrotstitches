@@ -436,7 +436,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 /*---------------------------------------------*/
 .main-menu > li:hover > a {
   text-decoration: none;
-  color: #6c7ae0;
+  color: #D75C2C;
 }
 
 .main-menu > li:hover > .sub-menu {
@@ -454,7 +454,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .sub-menu > li:hover > a {
-  color: #6c7ae0;
+  color: #D75C2C;
   text-decoration: none;
 }
 
@@ -501,7 +501,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   min-width: 15px;
   height: 15px;
   padding: 0 3px;
-  background-color: #717fe0;
+  background-color: #7C4DA2;
 }
 
 /*---------------------------------------------*/
@@ -575,7 +575,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .wrap-search-header button:hover {
-  color: #6c7ae0;
+  color: #7C4DA2;
 }
 
 /*---------------------------------------------*/
@@ -728,7 +728,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .main-menu-m {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #717fe0;
+  background-color: #7C4DA2;
 }
 
 .main-menu-m > li > a {
